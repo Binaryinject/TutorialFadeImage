@@ -1,4 +1,4 @@
-# UI Tutorial Fade
+# UI Tutorial Fade (TutorialFadeImage 单例修改版)
 
 Tutorial Fade is an easy-to-implement solution for creating tutorials that allows you to highlight UI elements or 3D renderers, allowing the user to click only on the highlighted elements.
 
